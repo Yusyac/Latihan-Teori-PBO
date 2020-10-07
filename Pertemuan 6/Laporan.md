@@ -1,3 +1,3 @@
 ## Hasil Output
 
-<img src="img/output.png" />
+<img src="img/output.PNG" />
